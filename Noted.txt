@@ -1,0 +1,14 @@
+** ShortCut in CSS
+mt = margin-top
+w60% = width: 60px;
+fs18px = font-style: 18px;
+lh1.9 = line-height: 1.9;
+ttu = text-transform: uppercase;
+
+====================================================
+section#about.about-section-padding = <div class="section about-section-padding" id="about"></div>
+.col-lg-4.col-md-12.col-12 = <div class="col-lg-4 col-md-12 col-12></div>
+
+
+
+
